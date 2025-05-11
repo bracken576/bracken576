@@ -15,10 +15,13 @@ Throughout 7 years of programming, I have developed a love for problem solving, 
 |• Streamlit Dashboards        |• Big Data (PySpark & Polars)                |
 
 # Education:
-## **Data Science Major, Brigham Young University Idaho, April 2022 - July 2025**
+## Data Science Major, Brigham Young University Idaho, April 2022 - July 2025
+
+## Statistics, Brigham Young University, September 2025 - 
 
 # Experience
 ## Data Scientist, Data Think, January 2025 - Present, Rexburg, ID
+
 • Coordinated with others to design streamlit analytics dashboards and deploy on Google Cloud Run
 
 • Created packages in R and Python to support work in streamlit applications and research in medical studies
@@ -45,11 +48,13 @@ Throughout 7 years of programming, I have developed a love for problem solving, 
 
 # Projects
 ## Cancer Recognition, April 2024
+
 • Used TensorFlow package in python to build a CNN to categorize tumors in mammograms as benign or malignant
 
 • Reached 95% accuracy and 95% recall score, compared to 93% accuracy and 78% recall score acheived by doctors
 
 ## Unsupervised PTJC, January 2025 - April 2025
+
 • Utilized PyTorch and MONAI packages in python to build a segmentation model as well as a classification model
 
 • Worked with MRI .nii images of elbows to create segmented slices to use in classification model
