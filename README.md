@@ -49,11 +49,15 @@ Throughout 7 years of programming, I have developed a love for problem solving, 
 # Projects
 ## Cancer Recognition, April 2024
 
+[Link to repo](https://github.com/bracken576/Sant-Resume/tree/61c21b280c20f72e68a9806efd291d294622011a/Projects/BreastCancerML)
+
 • Used TensorFlow package in python to build a CNN to categorize tumors in mammograms as benign or malignant
 
 • Reached 95% accuracy and 95% recall score, compared to 93% accuracy and 78% recall score acheived by doctors
 
 ## Unsupervised PTJC, January 2025 - April 2025
+
+[Link to repo](https://github.com/bracken576/Sant-Resume/tree/61c21b280c20f72e68a9806efd291d294622011a/Projects/Unsupervised_PTJC)
 
 • Utilized PyTorch and MONAI packages in python to build a segmentation model as well as a classification model
 
