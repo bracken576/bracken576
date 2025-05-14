@@ -66,3 +66,18 @@ Throughout 7 years of programming, I have developed a love for problem solving, 
 • Created an unsupervised model with a Spectral Clustering model for level of capsule fibrosis
 
 • Designed streamlit app with pipeline for the models
+
+## Pioneer Baseball League Predictivive Pitch Sequencing, February 2025 - March 2025
+
+#### Collaborators: Tyler English, Annaka McClelland, Logan Ray
+
+[Link to repo](https://github.com/TylerEnglish/GonePhishingBaseball.git)
+
+• Utilized Streamlit in python to create a smoother interaction between the user and our machine learning models
+
+• Used Tabnet for classification of pitches and XGBoostRegressor for number of pitches to strike a batter out
+
+• Worked as a team to complete the project promptly and to the users specifications
+
+• Got to an accuracy of .97 and an F1 score of .76 for the model on number of pitches
+
