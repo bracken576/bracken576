@@ -1,7 +1,9 @@
 # Bracken Sant
 
 903-439-5495 
+
 bsant576@byui.edu   
+
 [Linked-In Profile](https://linkedin.com/in/bracken-sant-70b76a192)
 # Summary
 Throughout 7 years of programming, I have developed a love for problem solving, programming, and sifting through data. I have also gained a respect for what is possible in machine learning as I have done image recognition models in tensorflow and PyTorch with X-rays, mammograms, and elbow MRIs. 
