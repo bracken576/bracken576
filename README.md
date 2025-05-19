@@ -10,7 +10,7 @@ Throughout 7 years of programming, I have developed a love for problem solving, 
 
 # Skills 
 #### (Most Proficient -> Least Proficient)
-• Python Packages: Polars, Pandas, Streamlit, Plotly Express, LetsPlot, PyTorch, TensorFlow, MONAI, PySpark
+• Python Packages: Polars, PySpark, Pandas, Streamlit, Plotly Express, PyTorch, TensorFlow, LetsPlot, MONAI
 
 •	R Packages: Tidyverse, Car, GGPlot2, BaseR, Dplyer, Rio, Plotly, S7, S4
 
