@@ -8,7 +8,8 @@ bsant576@byui.edu
 # Summary
 Throughout 7 years of programming, I have developed a love for problem solving, programming, and sifting through data. I have also gained a respect for what is possible in machine learning as I have done image recognition models in tensorflow and PyTorch with X-rays, mammograms, and elbow MRIs. 
 
-# Skills (Best -> Worst)
+# Skills 
+#### (Most Proficient -> Least Proficient)
 • Python Packages: Polars, Pandas, Streamlit, Plotly Express, LetsPlot, PyTorch, TensorFlow, MONAI, PySpark
 
 •	R Packages: Tidyverse, GGPlot2, Car, Mosaic, S7, S4, BaseR
