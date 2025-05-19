@@ -12,7 +12,7 @@ Throughout 7 years of programming, I have developed a love for problem solving, 
 #### (Most Proficient -> Least Proficient)
 • Python Packages: Polars, Pandas, Streamlit, Plotly Express, LetsPlot, PyTorch, TensorFlow, MONAI, PySpark
 
-•	R Packages: Tidyverse, GGPlot2, Car, Mosaic, S7, S4, BaseR
+•	R Packages: Tidyverse, Car, GGPlot2, BaseR, Dplyer, Rio, Plotly, S7, S4
 
 # Education:
 ## Data Science Bachelors, Brigham Young University Idaho, April 2022 - July 2025
