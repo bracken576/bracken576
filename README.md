@@ -22,8 +22,11 @@ Throughout 7 years of programming, I have developed a love for problem solving, 
 ## Data Scientist, Data Think, January 2025 - Present, Rexburg, ID
 
 •	Created Streamlit dashboards in python and deployed for client view through Google Cloud Run
+
 •	Made packages in R for setting up statistical analyses in medical studies with S7 and S4
+
 •	Built FastAPI endpoints with SQLAlchemy and Pydantic to connect to a Postgres database
+
 •	Utilized PyTorch Forecasting package to create a confidence interval for revenue each month
 
 ## Manager of Data Science Lab, Brigham Young University Idaho, January 2024 - April 2025, Rexburg, ID
