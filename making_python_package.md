@@ -77,7 +77,7 @@ class MathCalculator:
 
 **`mathcalculator/ __init__.py:`**
 ```python
-from .calculator import MathCalculator
+from .calculator import MathCalculator_bracken576
 
 __all__ = ["MathCalculator"]
 __version__ = "0.1.0"
@@ -91,7 +91,7 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mathcalculator"
+name = "mathcalculator-bracken576"
 version = "0.1.0"
 description = "A simple calculator package for basic mathematical operations"
 authors = [
@@ -103,7 +103,7 @@ requires-python = ">=3.6"
 dependencies = []
 
 [project.urls]
-"Homepage" = "https://github.com/brcken576/mathcalculator"
+"Homepage" = "https://github.com/bracken576/mathcalculator"
 
 [project.optional-dependencies]
 dev = ["pytest>=6.0"]
@@ -127,37 +127,36 @@ dev = ["pytest>=6.0"]
 **tests/test_calculator.py:**
 ```python
 import pytest
-from mathcalculator import MathCalculator
+from mathcalculator.calculator import MathCalculator_bracken576
 
 def test_addition():
-    calc = MathCalculator()
+    calc = MathCalculator_bracken576()
     assert calc.add(2, 3) == 5
     assert calc.add(-1, 1) == 0
 
 def test_subtraction():
-    calc = MathCalculator()
+    calc = MathCalculator_bracken576()
     assert calc.subtract(5, 3) == 2
     assert calc.subtract(1, 1) == 0
 
 def test_multiplication():
-    calc = MathCalculator()
+    calc = MathCalculator_bracken576()
     assert calc.multiply(3, 4) == 12
     assert calc.multiply(-2, 3) == -6
 
 def test_division():
-    calc = MathCalculator()
+    calc = MathCalculator_bracken576()
     assert calc.divide(10, 2) == 5
     assert calc.divide(7, 2) == 3.5
 
 def test_division_by_zero():
-    calc = MathCalculator()
+    calc = MathCalculator_bracken576()
     with pytest.raises(ValueError, match="Cannot divide by zero!"):
         calc.divide(5, 0)
 ```
 
 ### 5. README.md
 
-```markdown
 # MathCalculator
 
 A simple Python package for basic mathematical operations.
@@ -186,10 +185,10 @@ pip install .
 ## Usage
 
 ```python
-from mathcalculator import MathCalculator
+from mathcalculator.calculator import MathCalculator_bracken576
 
 # Initialize the calculator
-calc = MathCalculator()
+calc = MathCalculator_bracken576()
 
 # Perform operations
 result_add = calc.add(5, 3)        # Returns 8
@@ -269,10 +268,11 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
    ```bash
    twine upload --repository testpypi dist/*
    ```
+**You do have to have an API key with PyPi in order to upload your package to PyPi.**
 
 2. **Install from Test PyPI:**
    ```bash
-   pip install --index-url https://test.pypi.org/simple/ mathcalculator
+   pip install --index-url https://test.pypi.org/simple/mathcalculator-bracken576
    ```
 
 ### Production PyPI
@@ -286,10 +286,10 @@ twine upload dist/*
 Once installed, you can use the package in your Python code:
 
 ```python
-from mathcalculator import MathCalculator
+from mathcalculator.calculator import MathCalculator_bracken576
 
 # Create calculator instance
-calc = MathCalculator()
+calc = MathCalculator_bracken576()
 
 # Perform calculations
 print(f"5 + 3 = {calc.add(5, 3)}")
