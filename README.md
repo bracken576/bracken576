@@ -68,6 +68,8 @@ Throughout 7 years of programming, I have developed a love for problem solving, 
 
 •	Designed Streamlit app with pipeline for 5 models and for intuitive user interaction
 
+![](images/6134_capsule_train_loop.gif)
+
 ## Pioneer Baseball League Predictivive Pitch Sequencing, February 2025 - March 2025
 
 #### Collaborators: Tyler English, Annaka McClelland, Logan Ray
