@@ -56,10 +56,10 @@
 I have worked with a U-Net structure before and done different segmentation models. So, I'm going to compare some elbow MRI images that I have segmented capsule for before and compare it with the nnU-Net results in a saggital view.
 
 #### My 3-D U-Net
-![](images\mine_compar_6314_gif.gif)
+![](https://github.com/bracken576/bracken576/raw/7af0843c5c77df77b3dd2a8a5607198118a3a935/images/mine_compar_6314_gif.gif)
 
 #### The nnU-Net
-![](images\6314_shorter_looped.gif)
+![](https://github.com/bracken576/bracken576/raw/7af0843c5c77df77b3dd2a8a5607198118a3a935/images/6314_shorter_looped.gif)
 
 As you can see above the nnU-Net framework does a lot better than mine and for good reason, it has been trained on multiple datasets and has a lot better cleaning in the postprocessing than mine. However, I still don't feel bad about how mine did with only training on 18 images.
 
