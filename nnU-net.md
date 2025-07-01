@@ -76,7 +76,7 @@ I may not be able to publish a technical paper on a new machine learning framewo
 
 ### Links to Paper
 
-* [Original Paper](https://arxiv.org/pdf/1809.10486)
+* [nnU-Net Original Paper](https://arxiv.org/pdf/1809.10486)
 
-* [Follow-Up Paper](https://arxiv.org/pdf/2404.09556)
+* [nnU-Net Revisited](https://arxiv.org/pdf/2404.09556)
 
