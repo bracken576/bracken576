@@ -5,6 +5,7 @@
 bsant576@byui.edu   
 
 [Linked-In Profile](https://linkedin.com/in/bracken-sant-70b76a192)
+[Blog](blog.md)
 # Summary
 Throughout 7 years of programming, I have developed a love for problem solving, programming, and sifting through data. I have also gained a respect for what is possible in machine learning as I have done image recognition models in tensorflow and PyTorch with X-rays, mammograms, and elbow MRIs. 
 
@@ -68,7 +69,7 @@ Throughout 7 years of programming, I have developed a love for problem solving, 
 
 •	Designed Streamlit app with pipeline for 5 models and for intuitive user interaction
 
-![](images/6134_capsule_train_loop.gif)
+![](images/6314_shorter_looped.gif)
 
 ## Pioneer Baseball League Predictivive Pitch Sequencing, February 2025 - March 2025
 
@@ -83,4 +84,3 @@ Throughout 7 years of programming, I have developed a love for problem solving, 
 • Worked as a team to complete the project promptly and to the users specifications
 
 • Got to an accuracy of .97 and an F1 score of .76 for the model on number of pitches
-
