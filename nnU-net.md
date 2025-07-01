@@ -74,7 +74,7 @@ This has also allowed me to see some flaws in how it is built. Since the intende
 I may not be able to publish a technical paper on a new machine learning framework by using nnU-Net but it has been really nice to look at it for ideas. I had no idea about voxel spacing normalization or that you could remove isolated segmentations and just keep the main tracing. Looking through the research paper and through the techniques used in the making of nnU-Net has allowed me to take away tricks that I can use in different models. It has also made me look into making a package and publishing a package, you can look at my other post on that here : [Making Python Packages (2025)](making_python_package.md)
 
 
-### Links to Paper
+### Links to Papers
 
 * [nnU-Net Original Paper](https://arxiv.org/pdf/1809.10486)
 
