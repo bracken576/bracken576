@@ -2,7 +2,7 @@
 
 903-439-5495 
 
-bsant576@byui.edu   
+bsant1@byu.edu   
 
 [Linked-In Profile](https://linkedin.com/in/bracken-sant-70b76a192)
 
